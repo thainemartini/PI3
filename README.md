@@ -6,5 +6,5 @@ Sensor  → uControlador → Controladora de voo
 <br>Definição dos componentes:
 <br>→ gy-us42 - sensor ultrassonico com alcance de 0,2 á 7,2m, e  sua folha de dados é possivel encontrar o feixe de alcance desse sensor.
 <br>→ esp32 - microcontrolador 
-<br>→ pixhawk - controladodora de voo com frimware PX4 instalado 
+<br>→ pixhawk - controladodora de voo com frimware ArduPilot instalado 
 

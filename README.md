@@ -7,13 +7,13 @@ Repositorio designado a disciplina de projeto Integrador 3, o projeto em questã
 <br>Definição dos componentes:
 <br>
 <br>→ Esp32 - microcontrolador
-<br> Frequência do clock: 160MHz
-<br> Fácil acesso no Laboratório de Drones
+<br>  Frequência do clock: 160MHz
+<br>  Fácil acesso no Laboratório de Drones
 <br>
 <br>→ Pixhawk - controladora de voo 
-<br> Firmware: ArduPilot
-<br> Fácil acesso no Laboratório de Drones
-<br> Frequência de trabalho de 187MHz  
+<br>  Firmware: ArduPilot
+<br>  Fácil acesso no Laboratório de Drones
+<br>  Frequência de trabalho de 187MHz
 <br>
 <br>→ gy-us42 - sensor ultrassônico 
 <br>  Alcance de 0,2 á 7,2m 

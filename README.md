@@ -16,3 +16,4 @@ Sensor  → uControlador → Controladora de voo
 <br>  Frequência de resposta é de 15Hz, e sua folha de dados é possível encontrar o feixe de alcance desse sensor.
 
 <br>Levando em conta que a velocidade maxima do drone é de 5m/s, e o tempo de resposta do sensor é de 600ms, para que o drone não sofra a colisão o objeto precisa ser visto a pelo menos  
+<img src="imagens/diagramadeblocos.jpg">

@@ -17,6 +17,7 @@ Repositorio designado a disciplina de projeto Integrador 3, o projeto em questã
 <br>
 <br>→ gy-us42 - sensor ultrassônico 
 <br>  Alcance de 0,2 á 7,2m 
+<br>  Resolução de 1cm
 <br>  Frequência de resposta é de 15Hz, e sua folha de dados é possível encontrar o feixe de alcance desse sensor.
 <br>
 <br>Levando em conta que a velocidade maxima do drone é de 5m/s, e o tempo de resposta do sensor é de 600ms, para que o drone não sofra a colisão o objeto precisa ser visto a pelo menos  

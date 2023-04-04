@@ -1,5 +1,5 @@
 # PI3
-Repositorio designado a disciplina de projeto Integrador 3, o projeto em questão é um Detect and Avoid para um drone de pequeno porte.
+Repositório designado a disciplina de projeto Integrador 3, o projeto em questão é um Detect and Avoid para um drone de pequeno porte.
 <br><b>Objetivo:</b> Um sistema que detecta e evita objetos, para uma aeronave remotamente tripulada.
 <br><b>Introdução:</b> em uma aeronave remotamente tripulada é comum o piloto ter uma visão limitada, onde fica exposto aos perigos do ambiente como: galhos de arvores, postes, prédios e entre outros. Para solucionar esse problema é comum encontra em um sistema de <i>Detect&Avoid</i>
 <br><img src="diagramadeblocos.png">

@@ -2,7 +2,7 @@
 Repositório designado a disciplina de projeto Integrador 3, o projeto em questão é um Detect and Avoid para um drone de pequeno porte.
 <br><b>Objetivo:</b> Um sistema que detecta e evita objetos, para uma aeronave remotamente tripulada.
 <br><b>Introdução:</b> em uma aeronave remotamente tripulada é comum o piloto ter uma visão limitada, onde fica exposto aos perigos do ambiente como: galhos de arvores, postes, prédios e entre outros. Para solucionar esse problema é comum encontra em um sistema de <i>Detect&Avoid</i>
-<br><img src="diagramadeblocos.png">
+<br><img src="imagens/diagramadeblocos.png">
 <br>
 <br>Definição dos componentes:
 <br>
@@ -22,5 +22,5 @@ Repositório designado a disciplina de projeto Integrador 3, o projeto em quest�
 <br>
 <br>Levando em conta que a velocidade maxima do drone é de 5m/s, e o tempo de resposta do sensor é de 600ms, para que o drone não sofra a colisão o objeto precisa ser visto a pelo menos  
 <br>O cronograma a ser seguido, se encontra a seguir:
-<br><img src="image.png">
+<br><img src="imagens/image.png">
 
